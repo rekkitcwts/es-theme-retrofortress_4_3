@@ -12,6 +12,10 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 
 	<formatVersion>4</formatVersion>
 
+	<variables>
+		<mainFont>./_art/fonts/tf2build.ttf</mainFont>
+	</variables>
+
 	<view name="system, basic, detailed, video">
 
 		<image name="background" extra="true">
@@ -29,10 +33,21 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 			<color>000000</color>
 		</image>
 
+		<text name="system_name_1" extra="true">
+			<text>${system.fullName}</text>
+			<forceUppercase>0</forceUppercase>
+			<size>0.743 0.015</size>
+			<pos>0.063 0.235</pos>
+			<origin>0 0</origin>
+			<fontSize>0.04</fontSize>
+			<alignment>left</alignment>
+			<fontPath>${mainFont}</fontPath>
+		</text>
+
 		<helpsystem name="help">
 			<textColor>e0009e</textColor>
 			<iconColor>00d8e0</iconColor>
-			<fontPath>./_art/fonts/tf2build.ttf</fontPath>
+			<fontPath>${mainFont}</fontPath>
 			<fontSize>0.03</fontSize>
 		</helpsystem>
 
@@ -63,7 +78,7 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 				<size>0.980 0.050</size>
 				<backgroundColor>FFFFFF00</backgroundColor>
 				<color>FFFFFF</color>
-				<fontPath>./_art/fonts/tf2build.ttf</fontPath>
+				<fontPath>${mainFont}</fontPath>
 				<fontSize>0.025</fontSize>
 			</text>
 
