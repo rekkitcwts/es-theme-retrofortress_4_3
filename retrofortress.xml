@@ -19,7 +19,7 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 	<view name="system, basic, detailed, video">
 
 		<image name="background" extra="true">
-			<path>./_art/images/retrowave_bg.png</path>
+			<path>./_art/images/Background_2fort.png</path>
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<size>1 1</size>
