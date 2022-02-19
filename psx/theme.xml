@@ -1,7 +1,7 @@
 <theme>
 	
 	<formatVersion>4</formatVersion>
-	<include>./../retrowave.xml</include>
+	<include>./../retrofortress.xml</include>
 	
 	<view name="system, basic, detailed, video">
 
