@@ -1,11 +1,11 @@
 <!--
-theme name:		Retrowave (4:3)
+theme name:		RetroFortress (4:3)
 version:		1.0
-author:			Nick Earl
+author:			ClydeDatastruct
 email:			
-website:		nickearl.net
+website:		
 license:		creative commons CC-BY-NC-SA
-based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy
+based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" by Nick Earl
 -->
 
 <theme>
@@ -32,7 +32,7 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy
 		<helpsystem name="help">
 			<textColor>e0009e</textColor>
 			<iconColor>00d8e0</iconColor>
-			<fontPath>./_art/fonts/Streamster.ttf</fontPath>
+			<fontPath>./_art/fonts/tf2build.ttf</fontPath>
 			<fontSize>0.03</fontSize>
 		</helpsystem>
 
@@ -55,7 +55,7 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy
 				<color>00d8e000</color>
 				<logoScale>1.8</logoScale>
 				<logoSize>0.125 0.160</logoSize>
-				<maxLogoCount>3</maxLogoCount>
+				<maxLogoCount>1</maxLogoCount>
 			</carousel>
 
 			<text name="systemInfo">
@@ -63,7 +63,7 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy
 				<size>0.980 0.050</size>
 				<backgroundColor>FFFFFF00</backgroundColor>
 				<color>FFFFFF</color>
-				<fontPath>./_art/fonts/Streamster.ttf</fontPath>
+				<fontPath>./_art/fonts/tf2build.ttf</fontPath>
 				<fontSize>0.025</fontSize>
 			</text>
 
