@@ -85,7 +85,7 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 				<size>0.980 0.200</size>
 				<color>00d8e000</color>
 				<logoScale>2.0</logoScale>
-				<logoSize>1 1</logoSize>
+				<logoSize>0.125 0.160</logoSize>
 				<maxLogoCount>1</maxLogoCount>
 			</carousel>
 
