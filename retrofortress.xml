@@ -44,6 +44,11 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 			<fontPath>${mainFont}</fontPath>
 		</text>
 
+		<image name="mainthemelogo" extra="true">
+			<pos>0.03 0.12</pos>
+			<path>./_art/images/RetroFortressLogo.png</path>
+		</image>
+
 		<helpsystem name="help">
 			<textColor>e0009e</textColor>
 			<iconColor>00d8e0</iconColor>
