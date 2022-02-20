@@ -16,21 +16,12 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 		<mainFont>./_art/fonts/tf2build.ttf</mainFont>
 	</variables>
 
-	<view name="system, basic, detailed, video">
-
+	<view name="system">
 		<image name="background" extra="true">
 			<path>./_art/images/Background_2fort.png</path>
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<size>1 1</size>
-		</image>
-
-		<image name="background_help" extra="true">
-			<path>./_art/images/bg_color.png</path>
-			<origin>0 1</origin>
-			<pos>0 1</pos>
-			<size>1 0.070</size>
-			<color>000000</color>
 		</image>
 
 		<text name="system_name_1" extra="true">
@@ -48,10 +39,21 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 			<pos>0.03 0.12</pos>
 			<path>./_art/images/RetroFortressLogo.png</path>
 		</image>
+	</view>
 
+	<view name="system, basic, detailed, video">
+		<image name="background_help" extra="true">
+			<path>./_art/images/bg_color.png</path>
+			<origin>0 1</origin>
+			<pos>0 1</pos>
+			<size>1 0.070</size>
+			<color>39342E</color>
+		</image>
+
+		
 		<helpsystem name="help">
-			<textColor>e0009e</textColor>
-			<iconColor>00d8e0</iconColor>
+			<textColor>ECE2C9</textColor>
+			<iconColor>ECE2C9</iconColor>
 			<fontPath>${mainFont}</fontPath>
 			<fontSize>0.03</fontSize>
 		</helpsystem>
