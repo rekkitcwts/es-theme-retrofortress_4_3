@@ -33,6 +33,7 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 			<fontSize>0.04</fontSize>
 			<alignment>left</alignment>
 			<fontPath>${mainFont}</fontPath>
+			<color>FFFFFF</color>
 		</text>
 
 		<image name="mainthemelogo" extra="true">
@@ -48,6 +49,14 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 			<pos>0 1</pos>
 			<size>1 0.070</size>
 			<color>39342E</color>
+		</image>
+
+		<image name="background_help_top" extra="true">
+			<path>./_art/images/bg_color.png</path>
+			<origin>0 1</origin>
+			<pos>0 0</pos>
+			<size>1 0.070</size>
+			<color>2A2424</color>
 		</image>
 
 		
