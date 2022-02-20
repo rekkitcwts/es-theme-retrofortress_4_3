@@ -81,16 +81,16 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 
 			<carousel name="systemcarousel">
 				<type>horizontal</type>
-				<pos>0.280 0.35</pos>
-				<size>0.980 0.200</size>
+				<pos>0.265 0.05</pos>
+				<size>0.980 1</size>
 				<color>00d8e000</color>
-				<logoScale>2.0</logoScale>
-				<logoSize>0.125 0.160</logoSize>
+				<logoScale>1.5</logoScale>
+				<logoSize>0.225 1</logoSize>
 				<maxLogoCount>1</maxLogoCount>
 			</carousel>
 
 			<text name="systemInfo">
-				<pos>0.010 0.410</pos>
+				<pos>0.005 0.310</pos>
 				<size>0.980 0.050</size>
 				<backgroundColor>FFFFFF00</backgroundColor>
 				<color>FFFFFF</color>
