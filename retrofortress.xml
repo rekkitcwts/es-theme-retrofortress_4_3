@@ -40,6 +40,13 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 			<pos>0.063 0.09</pos>
 			<path>./_art/images/RetroFortressLogo.png</path>
 		</image>
+
+		<image name="controller" extra="true">
+			<maxSize>1920 374</maxSize>
+			<pos>960 207</pos>
+			<origin>0.5 0.5</origin>
+			<color>8b0000</color>
+		</image>
 	</view>
 
 	<view name="system, basic, detailed, video">

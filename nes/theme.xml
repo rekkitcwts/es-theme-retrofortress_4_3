@@ -5,6 +5,9 @@
 	
 	<!-- carousel: use image of physical device, like the random class images in TF2 -->
 	<view name="system">
+		<image name="controller">
+			<path>./controller.svg</path>
+		</image>
 
 		<image name="logo">
 			<path>./device.png</path>
