@@ -42,10 +42,8 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 		</image>
 
 		<image name="controller" extra="true">
-			<maxSize>1920 374</maxSize>
-			<pos>960 207</pos>
-			<origin>0.5 0.5</origin>
-			<color>8b0000</color>
+			<pos>0.063 0.39</pos>
+			<path>./_art/images/controllers/nes.svg</path>
 		</image>
 	</view>
 
