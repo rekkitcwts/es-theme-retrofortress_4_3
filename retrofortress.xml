@@ -24,11 +24,16 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 			<size>1 1</size>
 		</image>
 
+		<image name="mainmenuconsole" extra="true">
+			<pos>0.045 0.20</pos>
+			<path>./_art/images/main_menu_consolename.png</path>
+		</image>
+
 		<text name="system_name_1" extra="true">
 			<text>${system.fullName}</text>
 			<forceUppercase>0</forceUppercase>
-			<size>0.743 0.015</size>
-			<pos>0.063 0.235</pos>
+			<size>0.375 0.015</size>
+			<pos>0.189 0.232</pos>
 			<origin>0 0</origin>
 			<fontSize>0.04</fontSize>
 			<alignment>left</alignment>
@@ -42,8 +47,9 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 		</image>
 
 		<image name="controller" extra="true">
-			<pos>0.063 0.39</pos>
-			<path>./_art/images/controllers/nes.svg</path>
+			<pos>0.069 0.225</pos>
+			<size>0.105 0.105</size>
+			<path>./_art/images/controllers/${system.theme}.svg</path>
 		</image>
 	</view>
 
@@ -95,7 +101,8 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 			</carousel>
 
 			<text name="systemInfo">
-				<pos>0.005 0.310</pos>
+				<origin>0 0</origin>
+				<pos>0.91 0.585</pos>
 				<size>0.980 0.050</size>
 				<backgroundColor>FFFFFF00</backgroundColor>
 				<color>FFFFFF</color>
