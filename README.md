@@ -1,55 +1,45 @@
-# RetroWave
-A simple 80's synthwave style theme for Emulationstation and RetroPie
+# Retro Fortress
+A Team Fortress 2-inspired theme for Emulationstation and RetroPie
 
 
 ## About
 
-This retro-futuristic theme is inspired by the 80's aesthetic and synthwave music.
-Plenty of neon pink and teal, laser grids, and pixel text, but in a visually clean and simple style.
+This theme is inspired by the menu interface of the game "Team Fortress 2" in a simplified style.
 
-https://github.com/nickearl/es-theme-retrowave_4_3
+https://github.com/rekkitcwts/es-theme-retrofortress_4_3
 
-## Splashscreen
+## Runcommand Screens
 
-I've also created a video splashscreen in a matching style:
-- Watch it here:	https://www.youtube.com/watch?v=tzj_6HRCS7s
-- Download it here:	https://www.nickearl.net/2019/05/11/retrowave-80s-synthwave-style-retropie-video-splashscreen/
+TBD
 
-## Images
+## Screenshots
 
-*'Retrowave' Theme Gallery*
-[Retrowave Theme Gallery]( https://imgur.com/gallery/zgD4eWm )
-
-*'Retrowave' Theme System View*
-![Retrowave Theme System View]( https://imgur.com/YaQUqLt.png )
-
-*'Retrowave' Theme Basic View*
-![Retrowave Theme Basic View](https://imgur.com/GnisPq0.png)
-
-*'Retrowave' Theme Detailed View*
-![Retrowave Theme Detailed View](https://imgur.com/7KwNLdv.png)
+To be added.
 
 
 ## Credits
 
-- Many thanks to Matt Kennedy for his extremely helpful tutorial on theme creation.  This theme is built on top of his sample files
+- Many thanks to Matt Kennedy for his extremely helpful tutorial on theme creation.  The base theme is built on top of his sample files
 	https://github.com/RetroPie/RetroPie-Setup/wiki/Creating-Your-Own-EmulationStation-Theme
-- All Logo graphics are from the default Carbom theme made by Eric Hettervik.
+- The based theme used is from Nick Earl's Retrowave theme.
+	https://github.com/nickearl/es-theme-retrowave_4_3
+- All Controller graphics are from the default Carbom theme made by Eric Hettervik.
+- Console images are from Wikimedia Commons
 
 ## Notes
 
-- This theme is optimized for 4:3 displays.  There is also a 16:9 version available at https://github.com/nickearl/es-theme-retrowave
+- This theme is optimized for 4:3 displays. 16:9 support will be worked on later.
 
 
 ## Changelog
 
-2019-05-10
-v1.0 Initial version
+24 Feb 2022
+v0.1 Main menu polished. Gamelist screens being worked on.
 
 ---
 
-Theme 'retrowave' v1.0 - 2019-05-10
+Theme 'retrofortress' v0.9
 
-(c) Nick Earl - http://nickearl.net/
+(c) Clyde Datastruct - http://github.com/rekkitcwts
 
 For use with EmulationStation (http://www.emulationstation.org/)

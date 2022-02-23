@@ -32,7 +32,7 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 		<text name="system_name_1" extra="true">
 			<text>${system.fullName}</text>
 			<forceUppercase>0</forceUppercase>
-			<size>0.375 0.015</size>
+			<size>0.335 0.015</size>
 			<pos>0.189 0.232</pos>
 			<origin>0 0</origin>
 			<fontSize>0.04</fontSize>
@@ -118,7 +118,7 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 	<view name="basic">
 
 		<image name="background">
-			<path>./_art/images/retrowave_view_basic.png</path>
+			<path>./_art/images/retrofortress_view_basic.png</path>
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<size>1 1</size>
