@@ -14,7 +14,9 @@ TBD
 
 ## Screenshots
 
-To be added.
+Main Menu
+![Non-Retropie Settings](https://i.ibb.co/MV9sr8r/20222702-070155-HOIE.png "Main Menu")
+![Retropie Settings](https://i.ibb.co/ZzMYZHy/20222702-070225-HOIE.png "Main Menu")
 
 
 ## Credits
@@ -34,11 +36,12 @@ To be added.
 ## Changelog
 
 24 Feb 2022
+
 v0.1 Main menu polished. Gamelist screens being worked on.
 
 ---
 
-Theme 'retrofortress' v0.9
+Theme 'retrofortress' v0.1
 
 (c) Clyde Datastruct - http://github.com/rekkitcwts
 

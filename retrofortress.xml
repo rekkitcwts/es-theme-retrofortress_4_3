@@ -14,6 +14,7 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 
 	<variables>
 		<mainFont>./_art/fonts/tf2build.ttf</mainFont>
+		<secondFont>./_art/fonts/TF2secondary.ttf</secondFont>
 	</variables>
 
 	<view name="system">
@@ -127,7 +128,8 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 
 		<image name="logo">
 			<origin>0.5 0.5</origin>
-			<pos>0.40 0.142</pos>
+			<size>0.25 0.25</size>
+			<pos>0.45 0.342</pos>
 			<maxSize>0.4 0.12</maxSize>
 		</image>
 
@@ -136,7 +138,7 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 			<selectedColor>ebe6dd</selectedColor>
 			<primaryColor>00d8e0</primaryColor>
 			<secondaryColor>888888</secondaryColor>
-			<fontPath>./_art/fonts/VCR_OSD_MONO.ttf</fontPath>
+			<fontPath>${secondFont}</fontPath>
 			<pos>0.115 0.31</pos>
 			<size>0.512 0.69</size>
 			<fontSize>0.035</fontSize>
@@ -178,7 +180,7 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 				<selectedColor>00d8e0</selectedColor>
 				<primaryColor>00d8e0</primaryColor>
 				<secondaryColor>888888</secondaryColor>
-				<fontPath>./_art/fonts/VCR_OSD_MONO.ttf</fontPath>
+				<fontPath>${secondFont}</fontPath>
 				<pos>0.05 0.21</pos>
 				<size>0.44 0.69</size>
 				<fontSize>0.035</fontSize>
@@ -273,7 +275,7 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 				<pos>0.53 0.68</pos>
 				<size>0.44 0.21</size>
 				<color>e0009e</color>
-				<fontPath>./_art/fonts/VCR_OSD_MONO.ttf</fontPath>
+				<fontPath>${secondFont}</fontPath>
 				<fontSize>0.026</fontSize>
 				<alignment>left</alignment>
 				<forceUppercase>0</forceUppercase>
