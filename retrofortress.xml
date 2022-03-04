@@ -171,7 +171,8 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 
 			<image name="logo">
 				<origin>0.5 0.5</origin>
-				<pos>0.27 0.09</pos>
+				<size>0.125 0.125</size>
+				<pos>0.17 0.465</pos>
 				<maxSize>0.4 0.12</maxSize>
 			</image>
 
@@ -181,15 +182,15 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 				<primaryColor>00d8e0</primaryColor>
 				<secondaryColor>888888</secondaryColor>
 				<fontPath>${secondFont}</fontPath>
-				<pos>0.05 0.51</pos>
-				<size>0.44 0.69</size>
+				<pos>0.08 0.467</pos>
+				<size>0.34 0.46</size>
 				<fontSize>0.035</fontSize>
 				<horizontalMargin>0.01</horizontalMargin>
 			</textlist>
 
 			<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
 				<color>e0009e</color>
-				<forceUppercase>1</forceUppercase>
+				<forceUppercase>0</forceUppercase>
 				<fontPath>${secondFont}</fontPath>
 				<fontSize>0.0145</fontSize>
 				<size>0.24 0.01</size>
@@ -272,7 +273,7 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 				</text>
 
 			<text name="md_description">
-				<pos>0.53 0.68</pos>
+				<pos>0.50 0.68</pos>
 				<size>0.44 0.21</size>
 				<color>e0009e</color>
 				<fontPath>${secondFont}</fontPath>
