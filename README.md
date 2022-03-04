@@ -19,6 +19,9 @@ Main Menu
 ![Non-Retropie Settings](https://i.ibb.co/MV9sr8r/20222702-070155-HOIE.png "Main Menu")
 ![Retropie Settings](https://i.ibb.co/ZzMYZHy/20222702-070225-HOIE.png "Main Menu")
 
+Basic View
+
+![Gamelist - Basic View](https://i.ibb.co/jRf3D18/20220403-142230-HOIE.png "Gamelist - Basic View")
 
 ## Credits
 
