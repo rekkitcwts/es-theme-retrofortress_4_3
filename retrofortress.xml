@@ -192,7 +192,7 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 				<color>e0009e</color>
 				<forceUppercase>0</forceUppercase>
 				<fontPath>${secondFont}</fontPath>
-				<fontSize>0.0145</fontSize>
+				<fontSize>0.02</fontSize>
 				<size>0.24 0.01</size>
 			</text>
 
@@ -200,81 +200,81 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 				<color>00d8e0</color>
 				<forceUppercase>0</forceUppercase>
 				<fontPath>${secondFont}</fontPath>
-				<fontSize>0.0145</fontSize>
+				<fontSize>0.02</fontSize>
 				<size>0.24 0.01</size>
 			</text>
 			<datetime name="md_releasedate, md_lastplayed">
 				<color>00d8e0</color>
 				<forceUppercase>0</forceUppercase>
 				<fontPath>${secondFont}</fontPath>
-				<fontSize>0.0145</fontSize>
+				<fontSize>0.02</fontSize>
 				<size>0.24 0.01</size>
 			</datetime>
 
 				<text name="md_lbl_rating">
-					<pos>0.54 0.52</pos>
+					<pos>0.745 0.255</pos>
 				</text>
 				<rating name="md_rating">
-					<pos>0.635 0.515</pos>
+					<pos>0.82 0.255</pos>
 					<size>0.145 0.0145</size>
 					<filledPath>./_art/images/retrowave_triangle_blue_full.png</filledPath>
 					<unfilledPath>./_art/images/retrowave_triangle_blue_empty.png</unfilledPath>
 				</rating>
 
 				<text name="md_lbl_players">
-					<pos>0.54 0.55</pos>
+					<pos>0.26 0.23</pos>
 				</text>
 				<text name="md_players">
-					<pos>0.635 0.55</pos>
+					<pos>0.355 0.23</pos>
 				</text>
 
 				<text name="md_lbl_playcount">
-					<pos>0.54 0.58</pos>
+					<pos>0.26 0.28</pos>
 				</text>
 				<text name="md_playcount">
-					<pos>0.635 0.58</pos>
+					<pos>0.355 0.28</pos>
 				</text>
 
 				<text name="md_lbl_lastplayed">
-					<pos>0.54 0.61</pos>
+					<pos>0.26 0.255</pos>
 				</text>
 				<datetime name="md_lastplayed">
-					<pos>0.635 0.61</pos>
+					<pos>0.355 0.255</pos>
 				</datetime>
 
 				<text name="md_lbl_genre">
-					<pos>0.715 0.52</pos>
+					<pos>0.50 0.28</pos>
 				</text>
 				<text name="md_genre">
-					<pos>0.79 0.52</pos>
+					<pos>0.575 0.28</pos>
 				</text>
 
 				<text name="md_lbl_releasedate">
-					<pos>0.715 0.55</pos>
+					<pos>0.745 0.23</pos>
 				</text>
 				<datetime name="md_releasedate">
-					<pos>0.79 0.55</pos>
+					<pos>0.82 0.23</pos>
 				</datetime>
 
 				<text name="md_lbl_developer">
-					<pos>0.715 0.58</pos>
+					<pos>0.50 0.23</pos>
 				</text>
 				<text name="md_developer">
-					<pos>0.79 0.584</pos>
+					<pos>0.575 0.23</pos>
 					<size>.17 0.001</size>
 				</text>
 
 				<text name="md_lbl_publisher">
-					<pos>0.715 0.61</pos>
+					<pos>0.50 0.255</pos>
 				</text>
 				<text name="md_publisher">
-					<pos>0.79 0.614</pos>
+					<pos>0.575 0.255</pos>
 					<size>.17 0.001</size>
 				</text>
 
 			<text name="md_description">
 				<pos>0.50 0.68</pos>
-				<size>0.44 0.21</size>
+				<size>0.40 0.21</size>
 				<color>e0009e</color>
 				<fontPath>${secondFont}</fontPath>
 				<fontSize>0.026</fontSize>
@@ -288,8 +288,8 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 	<view name="detailed">
 		
 		<image name="md_image">
-			<maxSize>0.340 0.440</maxSize>
-			<pos>0.755 0.25</pos>
+			<maxSize>0.160 0.260</maxSize>
+			<pos>0.70 0.515</pos>
 			<origin>0.5 0.5</origin>
 		</image>
 
