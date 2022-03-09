@@ -188,6 +188,18 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy, "Retro Wave" b
 				<horizontalMargin>0.01</horizontalMargin>
 			</textlist>
 
+		<text name="system_name_1" extra="true">
+			<text>${system.theme}</text>
+			<forceUppercase>1</forceUppercase>
+			<size>0.305 0.015</size>
+			<pos>0.119 0.142</pos>
+			<origin>0 0</origin>
+			<fontSize>0.06</fontSize>
+			<alignment>left</alignment>
+			<fontPath>${mainFont}</fontPath>
+			<color>FFFFFF</color>
+		</text>
+
 			<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
 				<color>e0009e</color>
 				<forceUppercase>0</forceUppercase>
