@@ -3,7 +3,17 @@
 	<formatVersion>4</formatVersion>
 	<include>./../retrofortress.xml</include>
 	
-	<view name="system, basic, detailed, video">
+	<!-- carousel: use image of physical device, like the random class images in TF2 -->
+	<view name="system">
+
+		<image name="logo">
+			<path>./device.png</path>
+		</image>
+
+	</view>
+
+	<!-- uses system logo on other menus. TBD. -->
+	<view name="basic, detailed, video">
 
 		<image name="logo">
 			<path>./system.svg</path>
