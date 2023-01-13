@@ -39,13 +39,20 @@ Basic View
 
 ## Changelog
 
+14 Jan 2023
+
+v0.2
+- Polished BasicView, DetailView
+- Added Miss Pauling as icon for All Games.
+- Added Nintendo DS console image to main menu.
+
 24 Feb 2022
 
 v0.1 Main menu polished. Gamelist screens being worked on.
 
 ---
 
-Theme 'retrofortress' v0.1
+Theme 'retrofortress' v0.2
 
 (c) Clyde Datastruct - http://github.com/rekkitcwts
 
